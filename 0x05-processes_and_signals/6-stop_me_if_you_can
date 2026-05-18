@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script stops process using pgrep + kill alternative is not allowed so pkill is required
+
+pkill -f 4-to_infinity_and_beyond
